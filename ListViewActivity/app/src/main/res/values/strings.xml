@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string-array name="country">
+        <item>afghanistan</item>
+        <item>albania</item>
+        <item>algeria</item>
+        <item>american samoa</item>
+        <item>andorra</item>
+        <item>angola</item>
+        <item>anguilla</item>
+        <item>antartica</item>
+        <item>antigua and barbuda</item>
+        <item>argentina</item>
+        <item>armenia</item>
+        <item>aruba</item>
+        <item>australia</item>
+        <item>azerbaijan</item>
+        <item>bangladesh</item>
+        <item>barbados</item>
+        <item>belarus</item>
+        <item>belgium</item>
+    </string-array>
+</resources>
